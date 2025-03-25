@@ -1,4 +1,4 @@
-# Open R1
+# Open R1 
 
 *A fully open reproduction of DeepSeek-R1. This repo is work in progress, let's build it together!*
 
